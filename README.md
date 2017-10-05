@@ -1,2 +1,2 @@
 # JavaScriptRepository
-JS repository
+JavaScript Programming
